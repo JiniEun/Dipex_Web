@@ -5,6 +5,8 @@
 비디오 플레이어를 포함한 간단한 웹 페이지 제작<br/>
 스크립트를 포함한 페이지
 
+<br>
+
 ## 🛠 Stack 🛠
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -18,6 +20,8 @@
 <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> 
 <a href="https://gunicorn.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24iIQUg5hYsYyFavhPKXQJuXstAUjWt6maNYu-wWE6240yxhxDulIejacyWqidzwT2w&usqp=CAU" width="75" height="20" /></a>
 
+<br>
+
 ## ⚙ Organization & Used Technique
 
 | Full Stack | Technique | Role Officer |
@@ -27,5 +31,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
 This project was open source web framework with [Django](https://github.com/django/django).
+
+<br>
+
 ## ⚙ Final Result
 https://roamgom.github.io/front_dipex/
