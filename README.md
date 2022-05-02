@@ -2,8 +2,21 @@
 
 <img src="https://user-images.githubusercontent.com/44025989/124956721-3ae62200-e053-11eb-9d9b-fad02213f127.gif" width="40%" height="30%" title="" alt="Dipex"></img><br/>
 
-비디오 플레이어를 포함한 간단한 웹 페이지 제작<br/>
-스크립트를 포함한 페이지
+ReactJs와 Python의 Django, MySQL 기반의 웹 프로젝트
+환자들의 질병 극복 사례 공유를 위한 비디오 플레이어를 포함한 웹 페이지를 제작했습니다. <br>
+
+지원 중단하게 된 Adobe flash 기반의 웹페이지를 최근많이 사용되는 기술로 refactoring하여 페이지 구조를 개편하는 프로젝트였습니다. <br>
+대용량의 DB 구조를 공부 하고 다뤄보는 경험을 하고, 실제 있던 웹 페이지의 구조를 파악하고 
+이것을 다른 프레 임워크를 이용해 개발해보며 웹 개발 능력을 갖추었습니다. <br>
+
+<br>
+
+## 구현 기능
+
+- 대용량의 Database를 인계받아 새로운 DB 설계 경험
+- ReactJS를 통해 page 구성을 Component 단위로 분리하여 구현 
+- 비디오 플레이어를 포함한 페이지 구현
+- Semantic UI를 적용해 웹 프런트 style 구현
 
 <br>
 
@@ -35,4 +48,6 @@ This project was open source web framework with [Django](https://github.com/djan
 <br>
 
 ## ⚙ Final Result
+
+프런트 페이지 디자인만 조회 가능 (개인정보 (환자 정보) 보호를 위한 데이터베이스 연동 해제로 내용은 확인 불가) 
 https://roamgom.github.io/front_dipex/
