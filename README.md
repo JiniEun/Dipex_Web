@@ -37,7 +37,7 @@ ReactJs와 Python의 Django, MySQL 기반의 웹 프로젝트
 
 ## ⚙ Development Environment
 
-<img src="https://user-images.githubusercontent.com/49184115/166171762-3823a884-44e7-4ce8-b6d4-8ef0c2704d07.png" width="80%"/>
+<img src="https://user-images.githubusercontent.com/49184115/166171762-3823a884-44e7-4ce8-b6d4-8ef0c2704d07.png" width="60%"/>
 
 <br>
 
