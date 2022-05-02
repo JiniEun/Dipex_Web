@@ -35,6 +35,12 @@ ReactJs와 Python의 Django, MySQL 기반의 웹 프로젝트
 
 <br>
 
+## ⚙ Development Environment
+
+<img src="https://user-images.githubusercontent.com/49184115/166171762-3823a884-44e7-4ce8-b6d4-8ef0c2704d07.png" width="80%"/>
+
+<br>
+
 ## ⚙ Organization & Used Technique
 
 | Full Stack | Technique | Role Officer |
@@ -50,4 +56,5 @@ This project was open source web framework with [Django](https://github.com/djan
 ## ⚙ Final Result
 
 프런트 페이지 디자인만 조회 가능 (개인정보 (환자 정보) 보호를 위한 데이터베이스 연동 해제로 내용은 확인 불가) 
+
 https://roamgom.github.io/front_dipex/
